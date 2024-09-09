@@ -7,7 +7,7 @@ Welcome to the repository for the NFL Fourth-Down Decision Analysis project! Thi
 The objective of this project is to understand and predict NFL fourth-down play decisions, specifically whether to attempt a conversion, punt, or kick a field goal. Utilizing a comprehensive dataset and sophisticated analytical models, we identify key factors influencing these decisions and evaluate their impact on game outcomes.
 
 ### **Key Components**
-**Data Source:** NFLverse GitHub repository, covering every play from NFL games from 1999 to the present, with a focus on the 2021-2023 seasons.
+**Data Source:** NFLverse GitHub repository, covering every play from NFL games from 1999 to the present, with a focus on the 2021-2023 seasons (https://gist.github.com/Deryck97/dff8d33e9f841568201a2a0d5519ac5e)
 
 **Analysis Methods:** Logistic regression, decision tree classifier, and support vector machine models.
 
