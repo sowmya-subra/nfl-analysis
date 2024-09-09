@@ -37,8 +37,6 @@ The objective of this project is to understand and predict NFL fourth-down play 
 The research challenges traditional conservative play-calling norms, highlighting the importance of variables such as game context and offensive momentum. These findings offer valuable guidance for optimizing fourth-down strategies, potentially enhancing team performance and game management.
 
 ## **Files in this Repository**:
-data/: Contains the cleaned and processed datasets used for analysis.
-
 notebooks/: Jupyter notebooks detailing the data preprocessing, model training, and evaluation processes.
 
 documents/: Contains final presentation presented in class, docx file of detailed report
